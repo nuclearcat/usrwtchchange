@@ -20,6 +20,7 @@ Code is kept simple and easy to audit.
 
 ## TODO
 
+* Check code, it was written in 30min and might have serious bugs
 * Watch for user info change (uid, shell, etc), for now program watch only for username add/remove
 * Watch for shadow changes (password update), will require root privileges
 * Store file hashes for restart and send to admin as well?
